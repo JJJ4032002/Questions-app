@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Questions-app/static/css/main.ee36d83e.css",
+    "main.js": "/Questions-app/static/js/main.181fe62a.js",
+    "static/js/787.d437e15a.chunk.js": "/Questions-app/static/js/787.d437e15a.chunk.js",
+    "index.html": "/Questions-app/index.html",
+    "static/media/forward.svg": "/Questions-app/static/media/forward.ec62ef4da581d2d505a7333c1817d25d.svg",
+    "static/media/back.svg": "/Questions-app/static/media/back.5b8718531f64624dd0fcbb59028d3f80.svg",
+    "main.ee36d83e.css.map": "/Questions-app/static/css/main.ee36d83e.css.map",
+    "main.181fe62a.js.map": "/Questions-app/static/js/main.181fe62a.js.map",
+    "787.d437e15a.chunk.js.map": "/Questions-app/static/js/787.d437e15a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee36d83e.css",
+    "static/js/main.181fe62a.js"
+  ]
+}
