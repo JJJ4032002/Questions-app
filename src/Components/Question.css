@@ -9,7 +9,7 @@
 
 .QuestionContainer {
   background-color: white;
-  width: 80%;
+  width: 95%;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -53,7 +53,7 @@ progress[value]::-webkit-progress-value {
   color: #e74b16;
 }
 .QuestionStatement {
-  font-size: 1.4rem;
+  font-size: 1rem;
 }
 
 .SliderWrapper {
@@ -86,6 +86,12 @@ option {
   font-weight: 600;
 }
 @media (min-width: 768px) {
+  .QuestionContainer {
+    width: 80%;
+  }
+  .QuestionStatement {
+    font-size: 1.4rem;
+  }
   .ProgressBars {
     flex-wrap: nowrap;
   }
