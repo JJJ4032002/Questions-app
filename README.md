@@ -6,7 +6,7 @@
 
 ## Demo
 
-![Demo](./Demo/DemoImage.png)
+![Demo](./Demo/Demo.png)
 
 ## Tech Stack
 
